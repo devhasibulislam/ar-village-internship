@@ -55,7 +55,7 @@ function App() {
               ?
               <div id='embed-youtube-alert'>
                 <p>
-                  As you are not pasting any youtube video link so, <br /> <a href="https://www.youtube.com/" target={'_blank'}>click</a> on this link then search any video any put that link from url <br /> Thank you 🙃
+                  As you are not pasting any youtube video link so, <br /> <a href="https://www.youtube.com/" target={'_blank'} rel='noreferrer'>click</a> on this link then search any video any put that link from url <br /> Thank you 🙃
                 </p>
               </div>
               :
