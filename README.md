@@ -8,7 +8,9 @@
 ## Features
 * A dynamic input bar containing `YouTube` video **URL**
 * Result video based on that **URL**
+* Grid `canvas` to draw along side with `YouTube` video
 
 ## Technologies
 * ReactJS
 * Vanilla CSS
+* React Canvas
