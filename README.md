@@ -3,9 +3,10 @@
 ## Links
 * Live site link [click here](https://ar-village-internship.vercel.app/)
 * GitHub repo link [click here](https://github.com/hasibulislam999/ar-village-internship)
+* YouTube video link [click here](https://youtu.be/PHuk0_gLWBw)
 
 ## Features
-* A dynamic input bar contain `YouTube` video **URL**
+* A dynamic input bar containing `YouTube` video **URL**
 * Result video based on that **URL**
 
 ## Technologies
