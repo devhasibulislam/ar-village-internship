@@ -15,7 +15,6 @@ function App() {
     event.target.reset();
   };
 
-  console.log(URL);
   return (
     <section
       id='app'
@@ -51,7 +50,7 @@ function App() {
         {/* placeholder for embedded video */}
         <div id='youtube-embed-placeholder'>
           {
-            URL === ''
+            URL === '' || !(URL.includes('www.youtube.com'))
               ?
               <div id='embed-youtube-alert'>
                 <p>
